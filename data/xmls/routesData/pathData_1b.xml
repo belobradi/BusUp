@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<body copyright="All data copyright to Knock IT">
+	<route tag="1b" title="LIMAN I-CENTAR-KLISA" color="cc6600" oppositeColor="000000" latMin="" latMax="" lonMin="" lonMax="">
+		<stop tag="0001" title="Strand" lat="45.239013" lon="19.848297" stopId="10001"/>
+		<stop tag="0002" title="Fruskogorska" lat="45.242937" lon="19.847588" stopId="10002"/>
+		<stop tag="0003" title="Strand" lat="45.248097" lon="19.849350" stopId="10003"/>
+		<path>
+			<point lat="45.238528" lon="19.848109"/>
+			<point lat="45.238617" lon="19.848281"/>
+			<point lat="45.238898" lon="19.848235"/>
+			<point lat="45.239057" lon="19.848195"/>
+			<point lat="45.239259" lon="19.848082"/>
+			<point lat="45.240358" lon="19.847910"/>
+			<point lat="45.241476" lon="19.847741"/>
+			<point lat="45.242915" lon="19.847521"/>
+			<point lat="45.244063" lon="19.847355"/>
+			<point lat="45.244577" lon="19.847242"/>
+			<point lat="45.245140" lon="19.847290"/>
+			<point lat="45.245722" lon="19.847580"/>
+			<point lat="45.246621" lon="19.848366"/>
+			<point lat="45.247248" lon="19.848932"/>
+			<point lat="45.247622" lon="19.849404"/>
+			<point lat="45.247792" lon="19.849434"/>
+			<point lat="45.248083" lon="19.849289"/>
+		</path>
+	</route>
+</body>
