@@ -1,0 +1,6 @@
+#!/bin/bash
+
+python3 ./getroutes.py
+python3 ./getstopdata.py
+python3 ./getpathdata.py
+python3 ./generatePolylineJAVA.py
