@@ -1,5 +1,8 @@
 import data.pys.gspnspaths as gspnspaths
 import random
+import pathlib
+
+pathlib.Path('data/javas').mkdir(parents=True, exist_ok=True)
 
 fo = open('data/javas/polylineJAVA.java', 'w')
 
